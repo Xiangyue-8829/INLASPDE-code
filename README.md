@@ -1,4 +1,4 @@
-The .Rmd codes are to the Master's dissertation
+The .Rmd codes and python blackboard are to the Master's dissertation
 > [!NOTE]
 > Using at least version R 4.4.1
 
